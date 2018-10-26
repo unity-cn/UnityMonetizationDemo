@@ -1365,7 +1365,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Enter text...
+  m_Text: Inout Game ID here
 --- !u!222 &1428869529
 CanvasRenderer:
   m_ObjectHideFlags: 0
